@@ -9,8 +9,12 @@ public class Lab004
 
 
         System.exit(0);
+        System.out.println("hello");
 
+    }
 
+    public static void main(String[] args) {
+        
     }
 
 
